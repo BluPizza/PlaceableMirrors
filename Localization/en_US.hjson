@@ -1,0 +1,490 @@
+Mods:
+{
+	PlaceableMirrors:
+	{
+		Config:
+		{
+			Header:
+			{
+				SmartInteract: Smart Interact
+				DustEffects: Dust Effects
+
+				RecipesUpdate: 1.4.4 Update Recipe
+				RecipesSpecial: Crafting Recipes for Special Mirrors
+				AltRecipesSpecial: Alternate Crafting Recipes for Special Mirrors
+				RecipesIngredientAmounts: Crafting Ingredient Amounts
+				RecipesFurniture: Crafting Recipes for Furniture Mirrors
+				RecipesMetal: Crafting Recipes for Metal Mirrors
+				RecipesMisc: Crafting Misc.
+				RecipesConch: Small Conch Recipes
+
+				NPCDrops: NPC Drops
+				NPCShops: NPC Shops
+				ZenithMirror: Zenith Mirror Functions
+				PlacementPreview: Placement Preview
+				TileBlending: Tile Connection
+				Experimental: Experimental
+			}
+			Label:
+			{
+				Client: Client
+				ServerRecipes: Recipes
+				ServerMisc: Server Misc.
+
+				SmartInteractMagic: Smart Interact Over Placed Magic Mirrors
+				SmartInteractIce: Smart Interact Over Placed Ice Mirrors
+				SmartInteractWater: Smart Interact Over Water Mirrors
+				SmartInteractLava: Smart Interact Over Lava Mirrors
+				SmartInteractRecall: Smart Interact Over Recall Mirrors
+				SmartInteractTeleportation: Smart Interact Over Teleportation Mirrors
+				SmartInteractWormhole: Smart Interact Over Wormhole Mirrors
+				SmartInteractReturn: Smart Interact Over Mirrors of Return
+				SmartInteractFunctional: Smart Interact Over Magical Furniture Mirrors
+				SmartInteractCell: Smart Interact Over Cell Mirrors
+				SmartInteractShell: Smart Interact Over Shell Mirrors
+				SmartInteractTerra: Smart Interact Over Terra Mirrors
+				SmartInteractZenith: Smart Interact Over Zenith Mirrors
+
+				DustEffects: Mirror Dust Effects
+
+				RecipeMagicMirrorUpdate: 1.4.4 Magic Mirror Recipe
+
+				RecipeMagic: Recipe for Large Magic Mirrors
+				RecipeIce: Recipe for Large Ice Mirrors
+				RecipeWater: Recipe for Water Mirrors
+				RecipeLava: Recipe for Lava Mirrors
+				RecipeRecall: Recipe for Recall Mirrors
+				RecipeTeleportation: Recipe for Teleportation Mirrors
+				RecipeWormhole: Recipe for Wormhole Mirrors
+				RecipeReturn: Recipe for Mirrors of Return
+				RecipeFunctional: Recipe for Magical Furniture Mirrors
+				RecipeCell: Recipe for Cell Mirrors
+				RecipeShell: Recipe for Shell Mirrors
+				RecipeTerra: Recipe for Terra Mirrors
+				RecipeZenith: Recipe for Zenith Mirrors
+				RecipeMagicMirrorBlock: Recipe for Magic Mirror Blocks
+				RecipeWoodenMirrorBlock: Recipe for Mirror Blocks
+
+				AltRecipeMagic: Alternate Recipe for Large Magic Mirrors
+				AltRecipeIce: Alternate Recipe for Large Ice Mirrors
+				AltRecipeWater: Alternate Recipe for Water Mirrors
+				AltRecipeLava: Alternate Recipe for Lava Mirrors
+				AltRecipeRecall: Alternate Recipe for Recall Mirrors
+				AltRecipeTeleportation: Alternate Recipe for Teleportation Mirrors
+				AltRecipeWormhole: Alternate Recipe for Wormhole Mirrors
+				AltRecipeReturn: Alternate Recipe for Mirrors of Return
+				AltRecipeFunctional: Alternate Recipe for Magical Furniture Mirrors
+				AltRecipeCell: Alternate Recipe for Cell Mirrors
+				AltRecipeShell: Alternate Recipe for Shell Mirrors
+				AltRecipeTerra: Alternate Recipe for Terra Mirrors
+				AltRecipeZenith: Alternate Recipe for Zenith Mirrors
+				OldRecipeZenith: Older verson 0.9 Recipe for Zenith Mirrors
+				AltRecipeMagicMirrorBlock: Alternate Recipe for Magic Mirror Blocks
+
+				GlassAmount: Glass in crafting mirrors
+				FurnitureSetsMaterialAmount: Material in crafting mirrors
+				GlassAmountForBlocks: Glass in crafting blocks
+				RecallPotionAmount: Recall Potions in crafting Recall Mirrors
+				TeleportationPotionAmount: Teleportation Potions in crafting Teleportation Mirrors
+				WormholePotionAmount: Wormhole Potions in crafting Wormhole Mirrors
+				PotionOfReturnAmount: Potions Of Return in crafting Mirrors of Return
+				MetalBarAmount: Metal Bars in crafting Metal Mirrors
+				RecallPotionAmountAlt: Recall Potions in alternate crafting recipes
+				SeashellAmountAlt: Seashells in alternate recipes
+				HellstoneBarAmountAlt: Hellstone Bars in alternate recipes
+				WireAmountAlt: Wire in alternate recipes
+
+				RecipeWooden: Recipe for Wooden Mirrors
+				RecipeEbonwood: Recipe for Ebonwood Mirrors
+				RecipeRichMahogany: Recipe for Rich Mahogany Mirrors
+				RecipePearlwood: Recipe for Pearlwood Mirrors
+				RecipeCactus: Recipe for Cactus Mirrors
+				RecipeFlesh: Recipe for Flesh Mirrors
+				RecipeMushroom: Recipe for Mushroom Mirrors
+				RecipeLivingWood: Recipe for Living Wood Mirrors
+				RecipeBone: Recipe for Bone Mirrors
+				RecipeSkyware: Recipe for Skyware Mirrors
+				RecipeShadewood: Recipe for Shadewood Mirrors
+				RecipeLihzahrd: Recipe for Lihzahrd Mirrors
+				RecipeBlueDungeon: Recipe for Blue Dungeon Mirrors
+				RecipeGreenDungeon: Recipe for Green Dungeon Mirrors
+				RecipePinkDungeon: Recipe for Pink Dungeon Mirrors
+				RecipeObsidian: Recipe for Obsidian Mirrors
+				RecipeGlass: Recipe for Glass Mirrors
+				RecipeGolden: Recipe for Golden Mirrors
+				RecipeHoney: Recipe for Honey Mirrors
+				RecipeSteampunk: Recipe for Steampunk Mirrors
+				RecipePumpkin: Recipe for Pumpkin Mirrors
+				RecipeSpooky: Recipe for Spooky Mirrors
+				RecipeFrozen: Recipe for Frozen Mirrors
+				RecipeDynasty: Recipe for Dynasty Mirrors
+				RecipePalmWood: Recipe for Palm Wood Mirrors
+				RecipeBorealWood: Recipe for Boreal Wood Mirrors
+				RecipeSlime: Recipe for Slime Mirrors
+				RecipeMartian: Recipe for Martian Mirrors
+				RecipeMeteorite: Recipe for Meteorite Mirrors
+				RecipeGranite: Recipe for Granite Mirrors
+				RecipeMarble: Recipe for Marble Mirrors
+				RecipeCrystal: Recipe for Crystal Mirrors
+				RecipeSpider: Recipe for Spider Mirrors
+				RecipeLesion: Recipe for Lesion Mirrors
+				RecipeSolar: Recipe for Solar Mirrors
+				RecipeVortex: Recipe for Vortex Mirrors
+				RecipeNebula: Recipe for Nebula Mirrors
+				RecipeStardust: Recipe for Stardust Mirrors
+				RecipeSandstone: Recipe for Sandstone Mirrors
+				RecipeBamboo: Recipe for Bamboo Mirrors
+				RecipeReef: Recipe for Reef Mirrors
+				RecipeBalloon: Recipe for Balloon Mirrors
+				RecipeAshWood: Recipe for Ash Wood Mirrors
+
+				RecipeCopper: Recipe for Copper Mirrors
+				RecipeAdamantite: Recipe for Adamantite Mirrors
+
+				CraftingStation: Crafting Station for Mirrors
+				CraftingStationCombine: Crafting Station for Adding to Mirrors
+				SpecialCrafting: Special Crafting for Mirrors
+
+				RecipeSmallMagicConch: Recipe for Small Magic Conch
+				RecipeSmallDemonConch: Recipe for Small Demon Conch
+
+				PirateGoldenMirrorDrop: Pirates Drops Golden Mirrors
+				GoldenMirrorDropChance: Golden Mirror Drop Chance
+
+				MerchantSellsCopperMirror: Merchant Sells Copper Shortmirror
+
+				ZenithMirrorFunctionMagic: Magic Mirror Function
+				ZenithMirrorFunctionWater: Water Mirror Function
+				ZenithMirrorFunctionLava: Lava Mirror Function
+				ZenithMirrorFunctionTeleportation: Teleportation Mirror Function
+				ZenithMirrorFunctionWormhole: Wormhole Mirror Function
+				ZenithMirrorFunctionReturn: Mirror of Return Function
+				ZenithMirrorFunctionUltimate: Copper Shortmirror Function
+
+				MirrorOriginX: Mirror Placement Preview X
+				MirrorOriginY: Mirror Placement Preview Y
+
+				RequireWall: Require Wall
+			}
+			Tooltip:
+			{
+				SmartInteractMagic: Allow the use of Smart Interact over Large Magic Mirrors
+				SmartInteractIce: Allow the use of Smart Interact over Large Ice Mirrors
+				SmartInteractWater: Allow the use of Smart Interact over Water Mirrors
+				SmartInteractLava: Allow the use of Smart Interact over Lava Mirrors
+				SmartInteractRecall: Allow the use of Smart Interact over Recall Mirrors
+				SmartInteractTeleportation: Allow the use of Smart Interact over Teleportation Mirrors
+				SmartInteractWormhole: Allow the use of Smart Interact over Wormhole Mirrors
+				SmartInteractReturn: Allow the use of Smart Interact over Mirrors of Return
+				SmartInteractFunctional: Allow the use of Smart Interact over Magical Furniture Mirrors
+				SmartInteractCell: Allow the use of Smart Interact over Cell Mirrors
+				SmartInteractShell: Allow the use of Smart Interact over Shell Mirrors
+				SmartInteractTerra: Allow the use of Smart Interact over Terra Mirrors
+				SmartInteractZenith: Allow the use of Smart Interact over Zenith Mirrors
+
+				DustEffects: Mirrors give off dust
+
+				RecipeMagicMirrorUpdate: Adds in the 1.4.4 recipes for Magic Mirrors
+
+				RecipeMagic: Large Magic Mirrors can be crafted using a Magic Mirror
+				RecipeIce: Large Ice Mirrors can be crafted using an Ice Mirror
+				RecipeWater: Water Mirrors can be crafted using a Magic Conch
+				RecipeLava: Lava Mirrors can be crafted using a Demon Conch
+				RecipeRecall: Recall Mirrors can be crafted using a Large Magic Mirror
+				RecipeTeleportation: Teleportation Mirrors can be crafted using a Large Magic Mirror
+				RecipeWormhole: Wormhole Mirrors can be crafted using a Large Magic Mirror
+				RecipeReturn: Mirrors of Return can be crafted using a Large Magic Mirror
+				RecipeFunctional: Furniture Mirrors can be crafted into Magical Furniture Mirrors
+				RecipeCell: Cell Mirrors can be crafted using a Cell Phone
+				RecipeShell: Shell Mirrors can be crafted using Magic and Demon Conches
+				RecipeTerra: Terra Mirrors can be crafted using a Large Magic Mirror
+				RecipeZenith: Zenith Mirrors can be crafted using Copper, Terra, Water, Lava, Teleportation, Wormhole, and Return Mirrors
+				RecipeMagicMirrorBlock: Magic Mirror Blocks can be crafted using a Magic Mirror
+				RecipeWoodenMirrorBlock: Non-Magic Mirror Blocks can be crafted
+
+				AltRecipeMagic: Large Magic Mirrors can be crafted without a Magic Mirror, uses Recall Potions instead
+				AltRecipeIce: Large Ice Mirrors can be crafted without an Ice Mirror, uses Ice and Large Magic Mirror instead
+				AltRecipeWater: Water Mirrors can be crafted without a Magic Conch, uses Seashells instead
+				AltRecipeLava: Lava Mirrors can be crafted without a Demon Conch, uses Hellstone Bars instead
+				AltRecipeRecall: Recall Mirrors can be crafted without a Large Magic Mirror, uses Glass instead
+				AltRecipeTeleportation: Teleportation Mirrors can be crafted without a Large Magic Mirror, uses Glass instead
+				AltRecipeWormhole: Wormhole Mirrors can be crafted without a Large Magic Mirror, uses Glass instead
+				AltRecipeReturn: Mirrors of Return can be crafted without a Large Magic Mirror, uses Glass instead
+				AltRecipeFunctional: Magical Furniture Mirrors can be crafted without a Magic Mirror, uses Recall Potions instead
+				AltRecipeCell: Cell Mirrors can be crafted without a Cell Phone, uses Wire instead
+				AltRecipeShell: Shell Mirrors can be crafted without Conches, uses Seashells and Hellstone Bars instead
+				AltRecipeTerra: Terra Mirrors can be crafted without a Large Magic Mirror, uses a Wooden Mirror instead
+				AltRecipeZenith: Zenith Mirrors can be crafted using Copper, Magic, Water, Lava, Teleportation, Wormhole, and Return Mirrors
+				OldRecipeZenith: Zenith Mirrors has its 0.9 crafting recipe (Terra/Magic, Water, Lava, Return)
+				AltRecipeMagicMirrorBlock: Magic Mirror Blocks can be crafted without a Magic Mirror, uses Recall Potions instead
+
+				GlassAmount: How much Glass is needed for mirror recipes
+				FurnitureSetsMaterialAmount: How much of a material is needed to craft its respective mirror
+				GlassAmountForBlocks: How much Glass is needed for mirror blocks and how many blocks will be crafted
+				RecallPotionAmount: How much Recall Potions are required in Recall Mirror recipes
+				TeleportationPotionAmount: How much Teleportation Potions are required in Teleportation Mirror recipes
+				WormholePotionAmount: How much Wormhole Potions are required in Wormhole Mirror recipes
+				PotionOfReturnAmount: How much Potions of Return are required in Mirror of Return recipes
+				MetalBarAmount: How much Metal Bars are needed to craft its respective mirror
+				RecallPotionAmountAlt: How much Recall Potions are required in alternate recipes
+				SeashellAmountAlt: How much Seashells are required to make Water/Shell Mirrors in alternate recipes
+				HellstoneBarAmountAlt: How much Hellstone Bars are required to make Lava/Shell Mirrors in alternate recipes
+				WireAmountAlt: How much Wire is required to make the Cell Mirror in alternate recipe
+
+				RecipeWooden: Wooden Mirrors can be crafted
+				RecipeEbonwood: Ebonwood Mirrors can be crafted
+				RecipeRichMahogany: Rich Mahogany Mirrors can be crafted
+				RecipePearlwood: Pearlwood Mirrors can be crafted
+				RecipeCactus: Cactus Mirrors can be crafted
+				RecipeFlesh: Flesh Mirrors can be crafted
+				RecipeMushroom: Mushroom Mirrors can be crafted
+				RecipeLivingWood: Living Wood Mirrors can be crafted
+				RecipeBone: Bone Mirrors can be crafted
+				RecipeSkyware: Skyware Mirrors can be crafted
+				RecipeShadewood: Shadewood Mirrors can be crafted
+				RecipeLihzahrd: Lihzahrd Mirrors can be crafted
+				RecipeBlueDungeon: Blue Dungeon Mirrors can be crafted
+				RecipeGreenDungeon: Green Dungeon Mirrors can be crafted
+				RecipePinkDungeon: Pink Dungeon Mirrors can be crafted
+				RecipeObsidian: Obsidian Mirrors can be crafted (Note: Lava Mirrors can still be crafted if off)
+				RecipeGlass: Glass Mirrors can be crafted
+				RecipeGolden: Golden Mirrors can be crafted
+				RecipeHoney: Honey Mirrors can be crafted
+				RecipeSteampunk: Steampunk Mirrors can be crafted
+				RecipePumpkin: Pumpkin Mirrors can be crafted
+				RecipeSpooky: Spooky Mirrors can be crafted
+				RecipeFrozen: Frozen Mirrors can be crafted
+				RecipeDynasty: Dynasty Mirrors can be crafted
+				RecipePalmWood: Palm Wood Mirrors can be crafted (Note: Water Mirrors can still be crafted if off)
+				RecipeBorealWood: Boreal Wood Mirrors can be crafted
+				RecipeSlime: Slime Mirrors can be crafted
+				RecipeMartian: Martian Mirrors can be crafted
+				RecipeMeteorite: Meteorite Mirrors can be crafted
+				RecipeGranite: Granite Mirrors can be crafted
+				RecipeMarble: Marble Mirrors can be crafted
+				RecipeCrystal: Crystal Mirrors can be crafted
+				RecipeSpider: Spider Mirrors can be crafted
+				RecipeLesion: Lesion Mirrors can be crafted
+				RecipeSolar: Solar Mirrors can be crafted
+				RecipeVortex: Vortex Mirrors can be crafted
+				RecipeNebula: Nebula Mirrors can be crafted
+				RecipeStardust: Stardust Mirrors can be crafted
+				RecipeSandstone: Sandstone Mirrors can be crafted
+				RecipeBamboo: Bamboo Mirrors can be crafted
+				RecipeReef: Reef Mirrors can be crafted (Note: Shell Mirrors can still be crafted if off)
+				RecipeBalloon: Balloon Mirrors can be crafted
+				RecipeAshWood: Ash Wood Mirrors can be crafted
+
+				RecipeCopper: Copper Mirrors can be crafted
+				RecipeAdamantite: Adamantite Mirrors can be crafted
+
+				CraftingStation: The tile used to craft mirrors (Anvils = 16, Furnaces = 17, WorkBenches = 18, Glass Kiln = 302)
+				CraftingStationCombine: The tile used to combine items with mirrors (Anvils = 16, Furnaces = 17, WorkBenches = 18, Glass Kiln = 302)
+				SpecialCrafting: Mirrors that are part of furniture sets crafted from special crafting stations are crafted at special crafting stations (Example: Slime Mirror crafted at Solidifier)
+
+				RecipeSmallMagicConch: Small Magic Conch can be crafted
+				RecipeSmallDemonConch: Small Demon Conch can be crafted
+
+				PirateGoldenMirrorDrop: Pirates will have a chance to drop Golden Mirrors
+				GoldenMirrorDropChance: The chance of a pirate dropping a Golden Mirror, higher number = less common drop
+
+				MerchantSellsCopperMirror: The Merchant will sell Copper Shortmirrors
+
+				ZenithMirrorFunctionMagic: Adds a Magic Mirror function to Zenith Mirror
+				ZenithMirrorFunctionWater: Adds a Water Mirror (Magic Conch) function to Zenith Mirror
+				ZenithMirrorFunctionLava: Adds a Lava Mirror (Demon Conch) function to Zenith Mirror
+				ZenithMirrorFunctionTeleportation: Adds a Teleportation Mirror/Potion function to Zenith Mirror
+				ZenithMirrorFunctionWormhole: Adds a Wormhole Mirror/Potion function to Zenith Mirror
+				ZenithMirrorFunctionReturn: Adds a Mirror/Potion of Return function to Zenith Mirror
+				ZenithMirrorFunctionUltimate: Adds a randomized function to Zenith Mirror (Where will you go?)
+
+				MirrorOriginX: Changes where the cursor is on the placement preview of mirrors on the X-axis
+				MirrorOriginY: Changes where the cursor is on the placement preview of mirrors on the Y-axis
+
+				RequireWall: Mirrors will need walls to be placed on [Warning: Unstable]
+			}
+		}
+		Items:
+		{
+			LargeMagicMirror: Large Magic Mirror
+			LargeIceMirror: Large Ice Mirror
+			WaterMirror: Water Mirror
+			LavaMirror: Lava Mirror
+			RecallMirror: Recall Mirror
+			TeleportationMirror: Teleportation Mirror
+			WormholeMirror: Wormhole Mirror
+			ReturnMirror: Mirror of Return
+			CellMirror: Cell Mirror
+			ShellMirror: Shell Mirror
+			TerraMirror: Terra Mirror
+			ZenithMirror: Zenith Mirror
+
+			WoodenWallMirror: Wooden Mirror
+			EbonwoodWallMirror: Ebonwood Mirror
+			RichMahoganyWallMirror: Rich Mahogany Mirror
+			PearlwoodWallMirror: Pearlwood Mirror
+			CactusWallMirror: Cactus Mirror
+			FleshWallMirror: Flesh Mirror
+			MushroomWallMirror: Mushroom Mirror
+			LivingWoodWallMirror: Living Wood Mirror
+			BoneWallMirror: Bone Mirror
+			SkywareWallMirror: Skyware Mirror
+			ShadewoodWallMirror: Shadewood Mirror
+			LihzahrdWallMirror: Lihzahrd Mirror
+			BlueDungeonWallMirror: Blue Dungeon Mirror
+			GreenDungeonWallMirror: Green Dungeon Mirror
+			PinkDungeonWallMirror: Pink Dungeon Mirror
+			ObsidianWallMirror: Obsidian Mirror
+			GlassWallMirror: Glass Mirror
+			GoldenWallMirror: Golden Mirror
+			HoneyWallMirror: Honey Mirror
+			SteampunkWallMirror: Steampunk Mirror
+			PumpkinWallMirror: Pumpkin Mirror
+			SpookyWallMirror: Spooky Mirror
+			FrozenWallMirror: Frozen Mirror
+			DynastyWallMirror: Dynasty Mirror
+			PalmWoodWallMirror: Palm Wood Mirror
+			BorealWoodWallMirror: Boreal Wood Mirror
+			SlimeWallMirror: Slime Mirror
+			MartianWallMirror: Martian Mirror
+			MeteoriteWallMirror: Meteorite Mirror
+			GraniteWallMirror: Granite Mirror
+			MarbleWallMirror: Marble Mirror
+			CrystalWallMirror: Crystal Mirror
+			SpiderWallMirror: Spider Mirror
+			LesionWallMirror: Lesion Mirror
+			SolarWallMirror: Solar Mirror
+			VortexWallMirror: Vortex Mirror
+			NebulaWallMirror: Nebula Mirror
+			StardustWallMirror: Stardust Mirror
+			SandstoneWallMirror: Sandstone Mirror
+			BambooWallMirror: Bamboo Mirror
+			ReefWallMirror: Reef Mirror
+			BalloonWallMirror: Balloon Mirror
+			AshWoodWallMirror: Ash Wood Mirror
+
+			CopperWallMirror: Copper Shortmirror
+			AdamantiteWallMirror: Adamantite Mirror
+
+			FunctionalWoodenWallMirror: Magical Wooden Mirror
+			FunctionalEbonwoodWallMirror: Magical Ebonwood Mirror
+			FunctionalRichMahoganyWallMirror: Magical Rich Mahogany Mirror
+			FunctionalPearlwoodWallMirror: Magical Pearlwood Mirror
+			FunctionalCactusWallMirror: Magical Cactus Mirror
+			FunctionalFleshWallMirror: Magical Flesh Mirror
+			FunctionalMushroomWallMirror: Magical Mushroom Mirror
+			FunctionalLivingWoodWallMirror: Magical Living Wood Mirror
+			FunctionalBoneWallMirror: Magical Bone Mirror
+			FunctionalSkywareWallMirror: Magical Skyware Mirror
+			FunctionalShadewoodWallMirror: Magical Shadewood Mirror
+			FunctionalLihzahrdWallMirror: Magical Lihzahrd Mirror
+			FunctionalBlueDungeonWallMirror: Magical Blue Dungeon Mirror
+			FunctionalGreenDungeonWallMirror: Magical Green Dungeon Mirror
+			FunctionalPinkDungeonWallMirror: Magical Pink Dungeon Mirror
+			FunctionalObsidianWallMirror: Magical Obsidian Mirror
+			FunctionalGlassWallMirror: Magical Glass Mirror
+			FunctionalGoldenWallMirror: Magical Golden Mirror
+			FunctionalHoneyWallMirror: Magical Honey Mirror
+			FunctionalSteampunkWallMirror: Magical Steampunk Mirror
+			FunctionalPumpkinWallMirror: Magical Pumpkin Mirror
+			FunctionalSpookyWallMirror: Magical Spooky Mirror
+			FunctionalFrozenWallMirror: Magical Frozen Mirror
+			FunctionalDynastyWallMirror: Magical Dynasty Mirror
+			FunctionalPalmWoodWallMirror: Magical Palm Wood Mirror
+			FunctionalBorealWoodWallMirror: Magical Boreal Wood Mirror
+			FunctionalSlimeWallMirror: Magical Slime Mirror
+			FunctionalMartianWallMirror: Magical Martian Mirror
+			FunctionalMeteoriteWallMirror: Magical Meteorite Mirror
+			FunctionalGraniteWallMirror: Magical Granite Mirror
+			FunctionalMarbleWallMirror: Magical Marble Mirror
+			FunctionalCrystalWallMirror: Magical Crystal Mirror
+			FunctionalSpiderWallMirror: Magical Spider Mirror
+			FunctionalLesionWallMirror: Magical Lesion Mirror
+			FunctionalSolarWallMirror: Magical Solar Mirror
+			FunctionalVortexWallMirror: Magical Vortex Mirror
+			FunctionalNebulaWallMirror: Magical Nebula Mirror
+			FunctionalStardustWallMirror: Magical Stardust Mirror
+			FunctionalSandstoneWallMirror: Magical Sandstone Mirror
+			FunctionalBambooWallMirror: Magical Bamboo Mirror
+			FunctionalReefWallMirror: Magical Reef Mirror
+			FunctionalBalloonWallMirror: Magical Balloon Mirror
+			FunctionalAshWoodWallMirror: Magical Ash Wood Mirror
+
+			FunctionalCopperWallMirror: Magical Copper Shortmirror
+			FunctionalAdamantiteWallMirror: Magical Adamantite Mirror
+
+			MagicMirrorBlock: Magic Mirror Block
+			MagicMirrorBackgroundBlock: Magic Mirror Background Block
+			MagicMirrorWall: Magic Mirror Wall
+			MagicMirrorPlatform: Magic Mirror Platform
+
+			WoodenMirrorBlock: Mirror Block
+			WoodenMirrorBackgroundBlock: Mirror Background Block
+
+			SmallMagicConch: Small Magic Conch
+			SmallDemonConch: Small Demon Conch
+
+			Tooltip:
+			{
+				LargeMagicMirror: Place and gaze in the mirror to return home
+				LargeIceMirror: Place and gaze in the mirror to return home
+				WaterMirror: If you look closely, you can see the ocean
+				LavaMirror: If you look closely, you can see lava. Lots of lava
+				RecallMirror: Place and gaze in the mirror to return home
+				TeleportationMirror: Teleports to... somewhere
+				WormholeMirror: Use to teleport to a player
+				ReturnMirror: Teleports you home and creates a portal.
+				CellMirror: It costs $699.99
+				ShellMirror: Teleports to Ocean, Underworld, or Home
+				TerraMirror: The coolest mirror
+				ZenithMirror: The true coolest Mirror
+				ZenithMirrorControl: Functions depending on where it is clicked
+
+				WallMirror: Place on a wall
+				FunctionalWallMirror: Place and gaze in the mirror to return home
+
+				CopperWallMirror: The shortest mirror
+				AdamantiteWallMirror: This mirror is ace
+
+				MagicMirrorBlock: For decoration
+				MagicMirrorBackgroundBlock: The non-solid type
+				MagicMirrorWall: See for yourself
+				MagicMirrorPlatform: What?
+
+				WoodenMirrorBlock: For decoration
+				WoodenMirrorBackgroundBlock: The non-solid type
+
+				SmallMagicConch: Wait! This isn't a mirror!
+				SmallDemonConch: Oh no! Non-mirrors in a mod about mirrors!
+			}
+		}
+		Tiles:
+		{
+			LargeMagicMirror: Large Magic Mirror
+			LargeIceMirror: Large Ice Mirror
+			WaterMirror: Water Mirror
+			LavaMirror: Lava Mirror
+			RecallMirror: Recall Mirror
+			TeleportationMirror: Teleportation Mirror
+			WormholeMirror: Wormhole Mirror
+			ReturnMirror: Mirror of Return
+			CellMirror: Cell Mirror
+			ShellMirror: Shell Mirror
+			TerraMirror: Terra Mirror
+			ZenithMirror: Zenith Mirror
+
+			WallMirror: Wall Mirror
+			FunctionalWallMirror: Magical Wall Mirror
+
+			MagicMirrorBlock: Magic Mirror Block
+			MagicMirrorBackgroundBlock: Magic Mirror Background Block
+			MagicMirrorWall: Magic Mirror Wall
+			MagicMirrorPlatform: Magic Mirror Platform
+
+			WoodenMirrorBlock: Mirror Block
+			WoodenMirrorBackgroundBlock: Mirror Background Block
+
+			SmallConch: Smallest Conch
+		}
+	}
+}

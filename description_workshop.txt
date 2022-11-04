@@ -1,0 +1,51 @@
+Placeable Mirrors adds placeable Magic Mirrors and Decorative Mirrors that are placed on walls.
+Placed Magic Mirrors are able to instantly teleport players back to spawn.
+
+1.0: Added Wormhole Mirrors with the help of Stonga's mod Portable Wormhole (Link: https://steamcommunity.com/sharedfiles/filedetails/?id=2845703054&tscn=1667002162)
+	Added Cell, Shell, Recall, and Teleportation Mirrors
+	Added The Shortest Mirror - Copper Shortmirror, crafted or sold by merchant
+	Added Balloon and Ash Wood Mirrors
+	Added ambience dust particles to Magic, Ice, Water, Lava, Return, Terra, and Zenith Mirrors
+	Zenith Mirror sections now highlight sepatatly with smart cursor
+	Changed Zenith Mirror recipe and added more functions
+	Renamed Wall Magic Mirror and Wall Ice Mirror to Large Magic Mirror and Large Ice Mirror
+	Added Magic Mirror recipe from 1.4.4, can be disabled in configs
+	Added configs for dust particles and mirrors sold in shops
+	Added configs for Zenith Mirror functions and old Zenith Mirror crafting recipe
+	Testing has been done in multiplayer to make sure Wormhole and other mirrors work properly
+
+0.9: Added Reef Mirror and Terra Mirror
+	Added An All in One Mirror - The Zenith Mirror
+	Changed sell prices of mirrors
+
+0.8: Added Spider, Solar, Vortex, Nebula, Stardust, and Sandstone Mirrors
+	Added Mirror Blocks - The non-magic type
+	Changed textures of Obsidian and Lesion Mirrors
+
+0.7: Added Martian, Meteorite, Granite, Marble, and Crystal Mirrors
+	Build custom sized Magic Mirrors or whatever using new Magic Mirror Blocks
+	Added configs for ingredient amount in crafting recipes and drop chance
+	Added Small Conches
+
+0.6: Added Blue Dungeon, Green Dungeon, Pink Dungeon, Pumpkin, Spooky, and Dynasty Mirrors
+
+0.5: Added Flesh, Living Wood, Bone, Skyware, Lihzahrd, Honey, Steampunk, Frozen, Slime, and Lesion Mirrors
+	Added config for toggling crafting mirrors at special crafting stations, off by default
+
+0.4: Added Rich Mahogany, Pearlwood, Cactus, Mushroom, Boreal Wood, and Bamboo Mirrors
+	Mirrors crafted using glass are now crafted at furnaces
+	Decorative mirrors can now be made into Magical Mirrors, which functions the same as placed Magic Mirrors
+	Added Mirrors of Return, which functions the same as Potions of Return
+	Added configs for placement preview and crafting stations
+
+0.3.1: Changed Water and Lava Mirror crafting recipes and textures
+	Added more configs for crafting recipes
+
+0.3: Added Wooden, Ebonwood, Shadewood, Obsidian, Glass, Golden, and Palm Wood Mirrors.
+	Changed crafting recipes to use less glass
+	Added configs for crafting recipes and pirate drops
+
+0.2: Added Water Mirrors and Lava Mirrors
+	Smart Interact over mirrors can now be disabled using mod configs
+
+0.1: Added Wall Magic Mirrors and Wall Ice Mirrors

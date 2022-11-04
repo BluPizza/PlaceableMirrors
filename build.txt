@@ -1,0 +1,4 @@
+displayName = Placeable Mirrors
+author = BluPizza
+version = 1.0
+includeSource = true
